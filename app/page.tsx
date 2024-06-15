@@ -15,6 +15,7 @@ const Home = () => {
         <br />
         <button onSubmit={handleAuthorization}>Log in</button>
       </form>
+      <a href='/posts'>Link to posts</a>
     </div>
   )
 }
